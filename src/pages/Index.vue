@@ -16,7 +16,6 @@
       <p>{{historia.text}}</p>
       </q-item-section>
       </q-item>
-      <br><br><br>
       </q-list>
       {{numerohistorias}}
     </ul>
